@@ -1,4 +1,4 @@
-{
+module.exports = {
   "extends": "eslint:recommended",
   "parserOptions": {
       "ecmaVersion": 2015
@@ -60,4 +60,4 @@
     "template-curly-spacing": ["error", "always"],
     "yoda": "error"
   }
-}
+};
